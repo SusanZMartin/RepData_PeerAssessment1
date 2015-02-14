@@ -1,10 +1,9 @@
 # Reproducible Research: Peer Assessment 1
 
----
-title: "Peer Assessment Project 1: Reproducible Research"  
-author: "Susan Z Martin"   
-date: "Wednesday, February 14, 2015"       
----
+## Peer Assessment Project 1: Reproducible Research  
+## Susan Z Martin   
+       
+
 
 
 ```r
